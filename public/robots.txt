@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vlndrats.github.io/sitemap.xml
+
